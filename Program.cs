@@ -17,7 +17,7 @@
 
             if (numTemp == 20)
             {
-                Console.WriteLine("pull over is good");
+                Console.WriteLine("Please take your pullover.");
             }
 
             if (numTemp > 20)
