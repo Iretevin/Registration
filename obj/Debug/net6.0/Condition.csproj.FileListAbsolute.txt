@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Vscode project\ConsoleApp1\Condition\bin\Debug\net6.0\Condition.exe
+C:\Users\User\Documents\Vscode project\ConsoleApp1\Condition\bin\Debug\net6.0\Condition.deps.json
+C:\Users\User\Documents\Vscode project\ConsoleApp1\Condition\bin\Debug\net6.0\Condition.runtimeconfig.json
+C:\Users\User\Documents\Vscode project\ConsoleApp1\Condition\bin\Debug\net6.0\Condition.dll
+C:\Users\User\Documents\Vscode project\ConsoleApp1\Condition\bin\Debug\net6.0\Condition.pdb
+C:\Users\User\Documents\Vscode project\ConsoleApp1\Condition\obj\Debug\net6.0\Condition.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Vscode project\ConsoleApp1\Condition\obj\Debug\net6.0\Condition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Vscode project\ConsoleApp1\Condition\obj\Debug\net6.0\Condition.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Vscode project\ConsoleApp1\Condition\obj\Debug\net6.0\Condition.AssemblyInfo.cs
+C:\Users\User\Documents\Vscode project\ConsoleApp1\Condition\obj\Debug\net6.0\Condition.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Vscode project\ConsoleApp1\Condition\obj\Debug\net6.0\Condition.dll
+C:\Users\User\Documents\Vscode project\ConsoleApp1\Condition\obj\Debug\net6.0\refint\Condition.dll
+C:\Users\User\Documents\Vscode project\ConsoleApp1\Condition\obj\Debug\net6.0\Condition.pdb
+C:\Users\User\Documents\Vscode project\ConsoleApp1\Condition\obj\Debug\net6.0\Condition.genruntimeconfig.cache
+C:\Users\User\Documents\Vscode project\ConsoleApp1\Condition\obj\Debug\net6.0\ref\Condition.dll
